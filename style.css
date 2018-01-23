@@ -15,3 +15,8 @@ background: url(logo.png) center top no-repeat;
 margin: 0 0 20px 0;
 }
 
+footer{
+clear:both !important; width:940px;
+height: 100px; padding: 10px; color:#200f08 ;
+//border-top: 1px dotted #000; background:#fff;
+}
